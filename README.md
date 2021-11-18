@@ -1,5 +1,4 @@
 # MorphologicalMusicGameNotesFeatureAnalyse
-- 課題で作ったもの
 - これはmavenプロジェクトです。
 - プログラム上の文字コードはUTF-8です。
 - 某音ゲーの譜面属性を表示する、形態素解析プログラムです。（一般的に言われている譜面属性とは異なる部分があります）
